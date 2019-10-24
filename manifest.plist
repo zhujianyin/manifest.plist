@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://cnspec.myds.me:9090/download/TianLing_App.ipa</string>
+					<string>https://10.10.200.36/download/app/TianLing_App/TianLing_App.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://cnspec.myds.me:9090/download/1.png</string>
+					<string>https://10.10.200.36/download/app/TianLing_App/1.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://cnspec.myds.me:9090/download/2.png</string>
+					<string>https://10.10.200.36/download/app/TianLing_App/2.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
